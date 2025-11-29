@@ -6,7 +6,7 @@
 ระบบถูกออกแบบและพัฒนาในส่วนของ **Frontend** และ **Backend** โดยใช้เทคโนโลยีดังนี้:
 
 - **Frontend:** HTML, CSS (TailwindCSS), React.js  
-- **Backend:** JavaScript, Node.js, Nest.js
+- **Backend:** TypeScript, Node.js, Nest.js
 
 ---
 
