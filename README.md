@@ -7,7 +7,7 @@
 
 - **Frontend:** HTML, CSS (TailwindCSS), React.js  
 - **Backend:** TypeScript, Node.js, Nest.js
-
+- **Database:** MySQL
 ---
 
 ## ความสามารถของระบบ
